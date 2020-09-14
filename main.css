@@ -1,1 +1,8 @@
-
+*{
+	margin: 0;
+	padding: 0;
+	outline: none;
+}
+body {
+  background: F1F1F1;
+}
